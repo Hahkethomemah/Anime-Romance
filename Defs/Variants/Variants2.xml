@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Helper</defName>
+    <label>goudere</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Companion</defName>
+    <label>goudere</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Host</defName>
+    <label>hiyakasudere</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Caregiver</defName>
+    <label>hiyakasudere</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

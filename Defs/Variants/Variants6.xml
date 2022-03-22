@@ -1,0 +1,23 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Loyalist</defName>
+    <label>kamidere</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Guardian</defName>
+    <label>kamidere</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Confidant</defName>
+    <label>kamidere</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Iconoclast</defName>
+    <label>kamidere</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

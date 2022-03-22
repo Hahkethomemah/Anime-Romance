@@ -1,0 +1,32 @@
+<Defs>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Individualist</defName>
+    <label>{0}</label>
+    <genderReplace>
+      <li>oujidere/hamidere</li>
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Romantic</defName>
+    <label>{0}</label>
+    <genderReplace>
+      <li>oujidere/hamidere</li>
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Free_Spirit</defName>
+    <label>{0}</label>
+    <genderReplace>
+      <li>oujidere/hamidere</li>
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Creative</defName>
+    <label>bakadere</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>
